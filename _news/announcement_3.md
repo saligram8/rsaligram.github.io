@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-06-26 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Paper on Model Study of Multilevel Signaling for High-Speed Chiplet-Chiplet Communication in 2.5D Systems accepted for 28th VLSI-SoC
